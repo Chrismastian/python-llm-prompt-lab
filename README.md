@@ -1,5 +1,7 @@
 # python-llm-prompt-lab
 
+[![CI](https://github.com/Chrismastian/python-llm-prompt-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/Chrismastian/python-llm-prompt-lab/actions/workflows/ci.yml)
+
 Experiments in prompt engineering against an OpenAI-compatible LLM API, using
 the standard library only (no SDK).
 
